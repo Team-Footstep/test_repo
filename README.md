@@ -9,3 +9,6 @@ git commit message 작성법 연습하기!
 # Task 3
 conflict 내보기 + conflict 해결까지
 pull request 다루어보기!
+
+# Task 4
+readme.md 잘 작성하는 연습해보기!
